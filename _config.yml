@@ -120,7 +120,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: 一碗饭的饭碗 # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
+blog_nav_title: 博客 # your blog must have a title for it to be displayed in the nav bar
 blog_description: 一些碎碎念
 permalink: /blog/:year/:title/
 
