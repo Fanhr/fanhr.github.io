@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Moral Foundations of Hate Speech: Evidence from Tweets of Russo-Ukrainian War
-description: Dissertation for Bacholor of Arts, ICA24 accepted paper.
+description: Dissertation for Bacholor of Arts, ICA24 accepted paper
 img: assets/img/12.jpg
 importance: 1
-category: working paper
+category: work
 ---
 
 ## Abstract
