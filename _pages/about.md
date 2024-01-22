@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: about me
+title: about me
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -18,4 +18,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-范宏瑞是南京大学新闻传播学院传播学2023级学硕，计算传播实验室成员，研究方向为计算传播、计算叙事。
+范宏瑞是南京大学新闻传播学院传播学2023级学硕，计算传播实验室成员，研究方向为计算传播、计算叙事。他也在江苏省紫金传媒智库参与舆情分析的工作。
