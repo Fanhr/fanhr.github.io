@@ -4,7 +4,7 @@ title: Moral Foundations of Hate Speech
 description: Dissertation for Bacholor of Arts, ICA24 accepted paper
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: working paper
 ---
 **Moral Foundations of Hate Speech: Evidence from Tweets of Russo-Ukrainian War**
 
