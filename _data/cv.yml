@@ -1,34 +1,23 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: 姓名
+      value: 范宏瑞
+    - name: 生日
+      value: 2000-08-27
 
-- title: Education
+- title: 教育经历
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: 传播学硕士（在读）
+      institution: 南京大学新闻传播学院
+      year: 2023.9-2026.6
+    - title: 文学学士
+      institution: 南京大学新闻传播学院
+      year: 2019.9-2023.6
 
-- title: Experience
+
+- title: 经历
   type: time_table
   contents:
     - title: Professor of Theoretical Physics
